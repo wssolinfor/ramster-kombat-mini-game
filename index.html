@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <link rel="icon" href="favicon.png" type="image/png">
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="Hamster Combat Mini Game Simulator: practice hamster minigame to solve it under 30 seconds">
+        <meta name="keywords" content="hamster, hamster kombat, mini game, telegram, notcoin">
+        <title>Hamster Combat Simulador do Mini Jogo</title>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.1/p5.min.js"></script>
+        <script src="rush-hour.js?v=11"></script>
+        <script>
+            if (window.top !== window.self) {
+                window.top.location = window.self.location;
+            }
+        </script>
+        <link rel="stylesheet" type="text/css" href="style.css?v=11">
+        </script>
+    </head>
+    <body>
+        <div id="view"></div>
+        <div id="no-puzzle" style="display: none;">
+            <h1>Desculpe, ainda não temos minijogo de hoje</h1>
+            <p>Estamos trabalhando para adicioná-lo. Volte em breve!</p>
+            <img src="sad_hamster.jpg" alt="Oh no" />
+        </div>
+        <div class="footer">
+            <div class="info">
+                <span class="label">Moves:</span>
+                <span class="value" id="numMoves">0</span>
+                <span class="label" id="movesRequired"></span>
+            </div>
+            <div class="buttons">
+                <button id="resetButton">Resetar</button>
+                <button id="undoButton">Desfazer</button>
+            </div>
+        </div>
+        <div class="timer">
+            <span class="label">Tempo: <span id="timer">30</span></span><br/>
+            <span id="daily-time-left" class="label">Tempo restatante para próximo jogo: <span id="puzzle-timer"></span></span>
+        </div>
+        <div class="links">
+            <a href="prev.html" class="previous-button">🔙 Jogos Anteriores</a>
+            <a href="index.html" class="main-button">🎮 Mini Jogo de Hoje</a>
+            <a href="https://biolivre.com.br/wssolinfor" class="coffee-button" target="_blank">Pague-me um Café ☕</a>
+        </div>
+        <div id="prev" style="display: none;"/>
+    </body>
+</html>
