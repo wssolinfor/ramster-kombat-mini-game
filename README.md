@@ -1,4 +1,4 @@
-<h1>Simulador online do Mine Game da Hamster Kombat<h1/>
+<h3>Simulador online do Mine Game da Hamster Kombat<h3/>
 
 Créditos do código base: https://github.com/fogleman/rush
 
