@@ -671,7 +671,7 @@ if (window.top === window.self) {
   });
 } else {
   $(function() {
-    $('#view').html("Please visit <a href='https://fspv.github.io/hamster-kombat-puzzle-sim/'>https://fspv.github.io/hamster-kombat-puzzle-sim/</a> to play the game.");
+    $('#view').html("Visite <a href='https://wsinc-git.github.io/ramster-kombat-mini-game/'>https://wsinc-git.github.io/ramster-kombat-mini-game/</a> para jogar.");
     $('.main-button').hide();
     $('.footer').hide();
     $('.timer').hide();
