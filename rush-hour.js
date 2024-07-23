@@ -534,7 +534,7 @@ function startCountdown(duration) {
 
     if (--timer < 0) {
       clearInterval(countdown);
-      timerDisplay.textContent = "Time's up!";
+      timerDisplay.textContent = "Tempo encerrado!";
     }
     },
     1000
