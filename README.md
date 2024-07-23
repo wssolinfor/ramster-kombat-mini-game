@@ -1,10 +1,10 @@
-<h3>Simulador online do Mine Game da Hamster Kombat<h3/>
-
-Créditos do código base: https://github.com/fogleman/rush
-
+<h4>Simulador online do Mine Game da Hamster Kombat<h4/>
+  
 Jogar: https://wsinc-git.github.io/ramster-kombat-mini-game
 
-Base:
+<br>Créditos do código base: https://github.com/fogleman/rush<br/>
+
+Base do game:
 ![Official base](https://github.com/user-attachments/assets/e6da98e9-bc78-47dc-ab11-bbed8f3a7cc5)
 
 
