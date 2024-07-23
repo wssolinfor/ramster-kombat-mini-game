@@ -1,4 +1,4 @@
-// credits for this code go to: https://github.com/fogleman/rush
+// creditos do código base para: https://github.com/fogleman/rush
 
 // Constants
 let UnusableHeight = 72 + // timer
