@@ -7,7 +7,4 @@ https://wsinc-git.github.io/ramster-kombat-mini-game
 github.com <b>(fogleman)<b/>
 > <hr>
 > Base do game:
-![Official base](https://github.com/user-attachments/assets/e6da98e9-bc78-47dc-ab11-bbed8f3a7cc5)
-
-
-WSINC
+![Rush Hour51](https://github.com/user-attachments/assets/da574daf-d437-4c7d-a0ce-094d93d4c603)
