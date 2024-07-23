@@ -1,4 +1,4 @@
-<h4>Simulador online do Mine Game da Hamster Kombat<h4/>
+# Simulador Online do Mine Game Hamster Kombat
   
 Jogar: https://wsinc-git.github.io/ramster-kombat-mini-game
 
