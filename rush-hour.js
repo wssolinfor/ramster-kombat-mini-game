@@ -534,7 +534,7 @@ function startCountdown(duration) {
 
     if (--timer < 0) {
       clearInterval(countdown);
-      timerDisplay.textContent = "encerrado!";
+      timerDisplay.textContent = "❌ Encerrado!";
     }
     },
     1000
