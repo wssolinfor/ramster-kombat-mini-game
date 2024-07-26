@@ -124,7 +124,7 @@ button {
     transition: background-color 0.3s, box-shadow 0.3s;
 }
 .previous-button:hover {
-    background-color: #fc7984;
+    background-color: #73010b;
     box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15);
 }
 
@@ -140,6 +140,6 @@ button {
     transition: background-color 0.3s, box-shadow 0.3s;
 }
 .main-button:hover {
-    background-color: #2ded72;
+    background-color: #12592b;
     box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15);
 }
