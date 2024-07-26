@@ -228,7 +228,7 @@ class View {
         this.pieceColor = "#338899";
         this.pieceColorHorizontal = "#02dc60";
         this.pieceColorVertical = "#fe1e09";
-        this.pieceOutlineColor = "#222222";
+        this.pieceOutlineColor = "#000000";
         this.wallColor = "#000000";
         this.wallBoltColor = "#AAAAAA";
     }
