@@ -222,7 +222,7 @@ class View {
         this.undoStack = [];
 
         this.backgroundColor = "#FFFFFF";
-        this.boardColor = "#3d3d3d";
+        this.boardColor = "#000000";
         this.gridLineColor = "#464646";
         this.primaryPieceColor = "#DFFF00";
         this.pieceColor = "#338899";
