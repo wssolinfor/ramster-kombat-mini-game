@@ -213,7 +213,7 @@ class Board {
 class View {
     constructor() {
         this.board = new Board("BCCoEEBoDFFNAADGoNoHoGMMoHoGLooHKKLo");
-        this.movesRequired = 60;
+        // this.movesRequired = 60;
         this.dragPiece = -1;
         this.dragAnchor = null;
         this.dragDelta = null;
@@ -542,16 +542,16 @@ function startCountdown(duration) {
 }
 
 let puzzles = {
-  "2024-07-29": "EooGGoEBBBCFAADoCFooDHHFWWDJSSLLLJoo",
-  "2024-07-28": "BBooEFoCDDEFoCAAEoooLoGGKKLHooJJJHoo",
-  "2024-07-27": "oBBBoKooCFJKAACFJoooDFHHooDGGIoEEooI",
-  "2024-07-26": "BBoooEoCCCDEKAAoDoKJIoDFoJIGGFoJoHHH",
-  "2024-07-25": "BooEFFBCoEGoBCAAGHDDDoGHooLoJJooLoKK",
-  "2024-07-24": "oBooDDoBCCEoAAGoEoHHGFFLIJJKoLIooKoL",
-  "2024-07-23": "BBJIIoCDJoHGCDAAHGoooEoGoooEFFoooEoo",
-  "2024-07-22": "BCCoEEBoDFFNAADGoNoHoGMMoHoGLooHKKLo",
-  "2024-07-21": "oBoCDDEBoCFoEBAAFoGGHoFoIoHKKLIMMooL",
-  "2024-07-20": "oMooCooMBBCoAAEoCoHoEFFLHGGJoLHIIJKK",
+  "2024-07-28": "EooGGoEBBBCFAADoCFooDHHFWWDJSSLLLJoo",
+  "2024-07-27": "BBooEFoCDDEFoCAAEoooLoGGKKLHooJJJHoo",
+  "2024-07-26": "oBBBoKooCFJKAACFJoooDFHHooDGGIoEEooI",
+  "2024-07-25": "BBoooEoCCCDEKAAoDoKJIoDFoJIGGFoJoHHH",
+  "2024-07-24": "BooEFFBCoEGoBCAAGHDDDoGHooLoJJooLoKK",
+  "2024-07-23": "oBooDDoBCCEoAAGoEoHHGFFLIJJKoLIooKoL",
+  "2024-07-22": "BBJIIoCDJoHGCDAAHGoooEoGoooEFFoooEoo",
+  "2024-07-21": "BCCoEEBoDFFNAADGoNoHoGMMoHoGLooHKKLo",
+  "2024-07-20": "oBoCDDEBoCFoEBAAFoGGHoFoIoHKKLIMMooL",
+  "2024-07-19": "oMooCooMBBCoAAEoCoHoEFFLHGGJoLHIIJKK",
 }
 
 function hamsterUnixTime() {
