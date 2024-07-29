@@ -212,8 +212,8 @@ class Board {
 
 class View {
     constructor() {
-        this.board = new Board("BCCoEEBoDFFNAADGoNoHoGMMoHoGLooHKKLo");
-        // this.movesRequired = 60;
+        this.board = new Board("oMooCooMBBCoAAEoCoHoEFFLHGGJoLHIIJKK");
+        this.movesRequired = 60;
         this.dragPiece = -1;
         this.dragAnchor = null;
         this.dragDelta = null;
