@@ -1,11 +1,11 @@
 ## Simulador Online do Mine Game Hamster Kombat
   
 ### Experimente jogar
-https://wsinc-git.github.io/ramster-kombat-mini-game
+𒆜 https://wsinc-git.github.io/ramster-kombat-mini-game
 
-### Donativo
+### ♥ Donativo ♥
 
-<i>Se este projeto te ajuda e você gostaria de contribuir com o trabalho, considere um donativo de qualquer valor em USDT.</i>
+> <i>Se este projeto te ajuda e você gostaria de contribuir com o trabalho, considere um donativo de qualquer valor em USDT.</i>
 
 <code><b>USDT</b></code>:<code>(Rede TRON | TRC20)</code>
 <br><code><b>Endereço</b></code>:<code>TUuS2ZZJzsm4FVsKA8mZ548k4qsQqKiZ2z</code>
