@@ -731,7 +731,7 @@ if (window.top === window.self) {
   });
 } else {
   $(function() {
-    $('#view').html("Visite <a href='https://wsinc-git.github.io/ramster-kombat-mini-game/'>https://wsinc-git.github.io/ramster-kombat-mini-game/</a> para jogar.");
+    $('#view').html("Visite <a href='https://codezerothree.github.io/ramster-kombat-mini-game/'>https://codezerothree.github.io/ramster-kombat-mini-game/</a> para jogar.");
     $('.main-button').hide();
     $('.footer').hide();
     $('.timer').hide();
