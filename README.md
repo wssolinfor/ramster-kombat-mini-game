@@ -10,7 +10,7 @@
 <code><b>USDT</b></code>:<code>(Rede TRON | TRC20)</code>
 <br><code><b>Endereço</b></code>:<code>TUuS2ZZJzsm4FVsKA8mZ548k4qsQqKiZ2z</code>
 
-<code><b>USDT</b></code>:<code>(Rede TON)</code>
+<code><b>TON</b></code>:<code>(Rede TON)</code>
 <br><code><b>Endereço</b></code>:<code>UQC8cWS_Gbo1pff3I2NdN33PJ4DvKssQf4RpU9XV8tUUr2Tz</code>
 
 ### Créditos do código base
