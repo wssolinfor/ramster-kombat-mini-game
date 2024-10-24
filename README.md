@@ -3,6 +3,10 @@
 ### Experimente jogar
 𒆜 https://codezerothree.github.io/ramster-kombat-mini-game
 
+### Contato
+
+𒆜 <a href="https://t.me/codezerothree_bot?start=view_github">t.me/codezerothree</a>
+
 ### ♥ Donativo ♥
 
 > <i>Se este projeto te ajuda e você gostaria de contribuir com o trabalho, considere um donativo de qualquer valor em USDT ou TON.</i>
