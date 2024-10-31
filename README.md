@@ -1,7 +1,5 @@
-## ⚠️ <i>DESCONTINUADO!</i> ⚠️
-![Logo](https://img.shields.io/badge/status-removido-red)
-
 ## Simulador Online - Hamster Kombat Mini Game
+![Logo](https://img.shields.io/badge/status-descontinuado-red)
   
 ### Experimente jogar
 𒆜 https://codezerothree.github.io/ramster-kombat-mini-game
