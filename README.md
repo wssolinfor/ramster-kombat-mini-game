@@ -21,8 +21,6 @@
 <code><b>BITCOIN</b></code>:<code>(Rede BTC)</code>
 <br><code><b>Endereço</b></code>:<code>bc1q7k2wlxr6znffymz7qjpuy7d09s8jnr2djkewzj</code>
 
-Doar no Bot de Doações: <a href="https://t.me/donatescodezerothree_bot?start=doacao_github">t.me/donatescodezerothree</a>
-
 ### Créditos do código base
 github.com <b>(fogleman)<b/>
 > <hr>
