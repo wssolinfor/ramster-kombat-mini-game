@@ -1,8 +1,5 @@
 ## Simulador Online - Hamster Kombat Mini Game
 ![Logo](https://img.shields.io/badge/status-descontinuado-red)
-  
-### Experimente jogar
-𒆜 https://wssolinfor.github.io/ramster-kombat-mini-game
 
 ### Contato
 
