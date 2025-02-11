@@ -6,7 +6,7 @@
 
 ### Contato
 
-𒆜 <a href="https://t.me/codezerothree_bot?start=view_github">t.me/codezerothree</a>
+𒆜 <a href="https://t.me/wssolinforbot?start=view_github">t.me/wssolinfor</a>
 
 ### ♥ Donativo ♥
 
@@ -25,4 +25,4 @@
 github.com <b>(fogleman)<b/>
 > <hr>
 > Base original do puzzle:
-[<img src="base.gif" width="400">](https://wsinc-git.github.io/ramster-kombat-mini-game/index.html)
+[<img src="base.gif" width="400">](https://wssolinfor.github.io/ramster-kombat-mini-game/index.html)
