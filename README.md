@@ -2,7 +2,7 @@
 ![Logo](https://img.shields.io/badge/status-descontinuado-red)
   
 ### Experimente jogar
-𒆜 https://codezerothree.github.io/ramster-kombat-mini-game
+𒆜 https://wssolinfor.github.io/ramster-kombat-mini-game
 
 ### Contato
 
