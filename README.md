@@ -1,5 +1,5 @@
 ## Simulador Online - Hamster Kombat Mini Game
-![Logo](https://img.shields.io/badge/status-descontinuado-red)
+![Logo](https://img.shields.io/badge/status-descontinuado-b30414)
 
 ### Contato
 
